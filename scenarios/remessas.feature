@@ -22,7 +22,6 @@ Então deve se exibir uma lista com o conteúdo da <opção> que selecionei.
 | CPF    | CPF   |
 | Moeda  | Moeda |
 
-
 Cenário: Acessar lista de recebimentos relacionados a remessas a partir de “Envio” no sub-menu de “Remessas”
 Dado que eu esteja visualizando o menu lateral na área administrativa
 Quando clico em “Recebimento”
